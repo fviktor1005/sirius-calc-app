@@ -1,5 +1,6 @@
 {
   "name": "sirius-calc-app",
+  "main": "./build/server/index.js",
   "version": "1.0.0",
   "description": "",
   "scripts": {
